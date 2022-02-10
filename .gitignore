@@ -1,5 +1,4 @@
 vgg16.h5
 model.h5
 model_resnet50.h5
-mobilenet_v2.h5
 test/
