@@ -1,7 +1,6 @@
 import streamlit as st
 from tensorflow.keras.models import load_model
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
-import tensorflow as tf
 import numpy as np
 from PIL import Image
 

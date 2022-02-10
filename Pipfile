@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
-tensorflow = "*"
 pillow = "*"
+tensorflow-cpu = "*"
 
 [dev-packages]
 
